@@ -20,7 +20,7 @@ jobs:
     - name: Checkout Plogon
       uses: actions/checkout@v4
       with:
-        repository: goatcorp/Plogon
+        repository: ottercorp/Plogon
         path: Plogon
 
     - name: Create required folders
