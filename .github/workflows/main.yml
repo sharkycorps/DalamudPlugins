@@ -1,0 +1,64 @@
+name: Deployment
+on: [pull_request, workflow_dispatch]
+concurrency:
+  group: plogon-deploy
+  cancel-in-progress: true
+
+jobs:
+  run-plogon:
+    name: Build Plugins
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout manifests
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref }}
+        ssh-key: ${{ secrets.DEPLOY_KEY }}
+        persist-credentials: true
+        path: DalamudPlugins
+
+    - name: Checkout Plogon
+      uses: actions/checkout@v4
+      with:
+        repository: goatcorp/Plogon
+        path: Plogon
+
+    - name: Create required folders
+      run: |
+        mkdir artifacts
+        mkdir work
+
+    - name: Run Plogon
+      working-directory: Plogon/Plogon
+      run: |
+        dotnet run -- \
+        --manifest-folder="${{ github.workspace }}/DalamudPlugins/manifests" \
+        --output-folder="${{ github.workspace }}/DalamudPlugins/plugins" \
+        --work-folder="${{ github.workspace }}/work" \
+        --static-folder="${{ github.workspace }}/Plogon/Plogon/static" \
+        --artifact-folder="${{ github.workspace }}/artifacts" \
+        --build-overrides-file="${{ github.workspace }}/DalamudPlugins/manifests/overrides.toml" \
+        --mode=Commit --build-all
+
+    - name: Upload artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: plugin-artifact
+        path: DalamudPlugins/plugins
+
+    - name: Commit files
+      continue-on-error: true
+      run: |
+        cd ${{ github.workspace }}/DalamudPlugins
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add .
+        git commit -m "Update distribute (${{ github.sha }})"
+        
+    - name: Push plugin dist
+      uses: ad-m/github-push-action@master
+      with:
+        branch: ${{ github.ref }}
+        directory: DalamudPlugins
+        ssh: true
+    

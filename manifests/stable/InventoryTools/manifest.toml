@@ -1,0 +1,7 @@
+[plugin]
+repository = "https://github.com/HirotaZX/InventoryTools.git"
+commit = "febf198b5e2424b057a87836e460c5f8bcb56344"
+owners = [ "Critical_Impact" ]
+project_path = "InventoryTools"
+version = "1.7.0.2"
+changelog = ''''''
