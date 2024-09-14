@@ -46,15 +46,15 @@ function readManifest(name) {
       continue;
     }
 
-    manifest.last_update = Math.floor(plugin.timeBuilt.valueOf() / 1000);
-    manifest.download_link_install = `${ downloadRoot }/stable/${ plugin.name }/latest.zip`;
+    manifest.LastUpdate = Math.floor(plugin.timeBuilt.valueOf() / 1000);
+    manifest.DownloadLinkInstall = `${ downloadRoot }/stable/${ plugin.name }/latest.zip`;
     // TODO: these aren't supposed to be the same
-    manifest.download_link_testing = manifest.download_link_install;
-    manifest.download_link_update = manifest.download_link_install;
+    manifest.DownloadLinkTesting = manifest.DownloadLinkInstall;
+    manifest.DownloadLinkUpdate = manifest.DownloadLinkInstall;
 
-    manifest.download_count = 0;
-    manifest.is_dip17_plugin = true;
-    manifest.dip17_channel = 'stable';
+    manifest.DownloadCount = 0;
+    manifest._isDip17Plugin = true;
+    manifest._Dip17Channel = 'stable';
 
     pluginList.push(manifest);
   }
