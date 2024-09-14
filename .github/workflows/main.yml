@@ -46,6 +46,12 @@ jobs:
         name: plugin-artifact
         path: DalamudPlugins/plugins
 
+    - name: Make repo.json
+      run: |
+        cd ${{ github.workspace }}/DalamudPlugins
+        npm ci
+        GITHUB_REPOSITORY=${{ github.repository }} node makeRepo.js
+
     - name: Commit files
       continue-on-error: true
       run: |
