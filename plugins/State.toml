@@ -1,5 +1,5 @@
 [channels.stable.plugins.InventoryTools]
-built_commit = "febf198b5e2424b057a87836e460c5f8bcb56344"
-time_built = 2024-09-14T19:40:02.997
+built_commit = "4cb9ad371a56ad959c79f7f4b7f124663c4013bc"
+time_built = 2024-09-14T21:40:56.753
 effective_version = "1.7.0.2"
 [channels.stable.plugins.InventoryTools.changelogs]
