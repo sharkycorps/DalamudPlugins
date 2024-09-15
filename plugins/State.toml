@@ -13,3 +13,8 @@ built_commit = "a49ec0a2a6048265aba4ffc74d69a868db63f0eb"
 time_built = 2024-09-15T20:57:25.298
 effective_version = "1.6.3.0"
 [channels.stable.plugins.BDTHPlugin.changelogs]
+[channels.stable.plugins.AntiAfkKick-Dalamud]
+built_commit = "6762dd02908fb7459b417fce640662982afddae7"
+time_built = 2024-09-15T22:54:56.962
+effective_version = "2.1.0.5"
+[channels.stable.plugins.AntiAfkKick-Dalamud.changelogs]

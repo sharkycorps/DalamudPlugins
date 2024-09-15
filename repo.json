@@ -99,5 +99,28 @@
     "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
     "DownloadCount": 0
+  },
+  {
+    "Author": "NightmareXIV",
+    "Name": "AntiAfkKick",
+    "InternalName": "AntiAfkKick-Dalamud",
+    "AssemblyVersion": "2.1.0.5",
+    "Description": "防止长时间挂机时被服务器踢出，安装即可生效，无需配置",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
+    "DalamudApiLevel": 9,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "防止长时间挂机时被服务器踢出，安装即可生效，无需配置",
+    "AcceptsFeedback": true,
+    "_isDip17Plugin": true,
+    "_Dip17Channel": "stable",
+    "LastUpdate": 1726440896,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadCount": 0
   }
 ]
