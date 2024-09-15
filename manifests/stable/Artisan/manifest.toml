@@ -1,0 +1,6 @@
+[plugin]
+repository = "https://github.com/HirotaZX/Artisan.git"
+commit = "ed2c962e2d4172320ecc9a74a0eb4a3735842397"
+owners = [ "Taurenkey (Puni.sh)" ]
+project_path = "Artisan"
+changelog = ''''''

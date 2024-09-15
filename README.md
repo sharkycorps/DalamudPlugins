@@ -1,10 +1,14 @@
 # DalamudPlugins
 
-个人用卫月插件仓库
+![版本](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-%E5%9B%BD%E6%9C%8D6.58-blue)
+[![Deployment](https://github.com/HirotaZX/DalamudPlugins/actions/workflows/main.yml/badge.svg)](https://github.com/HirotaZX/DalamudPlugins/actions/workflows/main.yml)
+
+个人用卫月插件仓库（原版或微调，无汉化）
 
 ## 插件列表
 
-* [Allagan Tools](https://github.com/HirotaZX/InventoryTools) 亚拉戈工具 fork，提供物品列表等功能，Artisan 雇员功能的依赖，进行了国服适配
+* [Allagan Tools](https://github.com/HirotaZX/InventoryTools) 亚拉戈工具 fork，提供物品列表等功能，Artisan 雇员功能的依赖，进行了国服数据适配
+* [Artisan](https://github.com/HirotaZX/Artisan) Artisan fork，生产工具，替换了对Allagan Tools调用
 
 ## 使用
 
