@@ -12,6 +12,7 @@
 | [Allagan Tools](https://github.com/HirotaZX/InventoryTools) | 亚拉戈工具AT，提供跨背包/雇员/部队储物柜的物品列表查询等功能 | 国服雇员适配 | :x: |
 | [Artisan](https://github.com/HirotaZX/Artisan) | 生产计划及安排工具，雇员功能依赖AT | 搭配上方AT修复国服雇员功能 | :x: |
 | [Burning Down the House](https://github.com/HirotaZX/BDTHPlugin) | 解除摆放限制，轻松搞定装修 | 汉化 | :white_check_mark: |
+| [AntiAfkKick](https://github.com/HirotaZX/AntiAfkKick) | 防止长时间挂机时被服务器踢出 | D17 | :o: |
 
 * 以上调整均包括 D17 Plogon 自动化构建工具的适配
 
