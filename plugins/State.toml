@@ -3,3 +3,13 @@ built_commit = "2aead968ab198369f32dbcf776824420fce66f50"
 time_built = 2024-09-14T22:10:56.708
 effective_version = "1.7.0.2"
 [channels.stable.plugins.InventoryToolsCN.changelogs]
+[channels.stable.plugins.Artisan]
+built_commit = "ed2c962e2d4172320ecc9a74a0eb4a3735842397"
+time_built = 2024-09-15T20:57:19.428
+effective_version = "3.0.5.15"
+[channels.stable.plugins.Artisan.changelogs]
+[channels.stable.plugins.BDTHPlugin]
+built_commit = "a49ec0a2a6048265aba4ffc74d69a868db63f0eb"
+time_built = 2024-09-15T20:57:25.298
+effective_version = "1.6.3.0"
+[channels.stable.plugins.BDTHPlugin.changelogs]
