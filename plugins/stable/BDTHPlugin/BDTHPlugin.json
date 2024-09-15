@@ -1,0 +1,28 @@
+{
+  "Author": "LeonBlade",
+  "Name": "Burning Down the House",
+  "InternalName": "BDTHPlugin",
+  "AssemblyVersion": "1.6.3.0",
+  "Description": "使用坐标系移动家具，随意摆放",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
+  "Tags": [
+    "bdth",
+    "housing",
+    "float",
+    "place",
+    "glitch",
+    "furnishing",
+    "LeonBlade"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/LeonBlade/BDTHPlugin/raw/main/icon.png",
+  "Punchline": "轻松搞定装修！",
+  "AcceptsFeedback": true,
+  "_isDip17Plugin": true,
+  "_Dip17Channel": "stable"
+}
