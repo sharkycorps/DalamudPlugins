@@ -67,7 +67,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Update distribute (${{ github.event.pull_request.head.sha || github.sha }})"
+        git commit -m "Update distribute (${{ github.event.pull_request.head.sha || github.sha }}) [skip ci]"
         
     - name: Push plugin dist
       uses: ad-m/github-push-action@master
