@@ -23,6 +23,14 @@ jobs:
         repository: ottercorp/Plogon
         path: Plogon
 
+    # Patch Plogon, add 8.0.8 deps, resolve windows form linux build problem
+    - name: Patch Plogon
+      run: |
+        cd ${{ github.workspace }}/Plogon/Plogon
+        sed -i '/"8.0.0"/s|\("8.0.0"\)|\1, "8.0.8"|' BuildProcessor.cs
+        cd static
+        sed -i '/dotnet build/s|$| -p:EnableWindowsTargeting=true|' entrypoint.sh
+
     - name: Create required folders
       run: |
         mkdir artifacts
