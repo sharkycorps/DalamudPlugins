@@ -47,6 +47,7 @@ function readManifest(name) {
     }
 
     manifest.LastUpdate = Math.floor(plugin.timeBuilt.valueOf() / 1000);
+    manifest.IconUrl = `${ downloadRoot }/stable/${ plugin.name }/images/icon.png`;
     manifest.DownloadLinkInstall = `${ downloadRoot }/stable/${ plugin.name }/latest.zip`;
     // TODO: these aren't supposed to be the same
     manifest.DownloadLinkTesting = manifest.DownloadLinkInstall;
