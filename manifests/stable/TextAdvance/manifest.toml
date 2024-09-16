@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/HirotaZX/TextAdvance.git"
-commit = "3410463938243a6530ebef72fa676968b35516b8"
+commit = "ebe65346ea5f806de84fd014d47efe6464ab5143"
 owners = [ "NightmareXIV" ]
 project_path = "TextAdvance"
 changelog = ''''''
