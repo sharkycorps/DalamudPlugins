@@ -1,34 +1,34 @@
 # DalamudPlugins
 
 ![版本](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-%E5%9B%BD%E6%9C%8D6.58-blue)
-[![Deployment](https://github.com/HirotaZX/DalamudPlugins/actions/workflows/main.yml/badge.svg)](https://github.com/HirotaZX/DalamudPlugins/actions/workflows/main.yml)
+[![Deployment](https://github.com/sharkycorps/DalamudPlugins/actions/workflows/main.yml/badge.svg)](https://github.com/sharkycorps/DalamudPlugins/actions/workflows/main.yml)
 
-自用卫月插件仓库（原版或微调，不保证汉化，主要目标为 D17 自动化构建系统的适配）
+鯊鯊軍團的衛月插件倉庫（原版或微調，不保證漢化，主要目標為 D17 自動化構建系統的適配）
 
 ## 插件列表
 
-| 插件 | 说明 | 调整 | 汉化 | 作者 |
+| 插件 | 說明 | 調整 | 漢化 | 作者 |
 | - | - | - | - | - |
-| [Allagan Tools](https://github.com/HirotaZX/InventoryTools) | 亚拉戈工具AT，提供跨背包/雇员/部队储物柜的物品列表查询等功能 | 国服雇员适配 | :x: | [Critical-Impact](https://github.com/Critical-Impact) |
-| [Artisan](https://github.com/HirotaZX/Artisan) | 生产计划及安排工具，雇员功能依赖AT | 搭配上方AT修复国服雇员功能 | :x: | [Taurenkey](https://github.com/Taurenkey) |
-| [Burning Down the House](https://github.com/HirotaZX/BDTHPlugin) | 解除摆放限制，轻松搞定装修 | 汉化 | :white_check_mark: | [LeonBlade](https://github.com/LeonBlade) |
-| [AntiAfkKick](https://github.com/HirotaZX/AntiAfkKick) | 防止长时间挂机时被服务器踢出 | D17 | :o: | [NightmareXIV](https://github.com/NightmareXIV) |
-| [TextAdvance](https://github.com/HirotaZX/TextAdvance) | 任务速通辅助工具，自动跳过对话和过场 | D17 | :x: | [NightmareXIV](https://github.com/NightmareXIV) |
+| [Allagan Tools](https://github.com/sharkycorps/InventoryTools) | 亞拉戈工具AT，提供跨背包/雇員/部隊儲物櫃的物品列表查詢等功能 | 國服雇員適配 | :x: | [Critical-Impact](https://github.com/Critical-Impact) |
+| [Artisan](https://github.com/sharkycorps/Artisan) | 生產計劃及安排工具，雇員功能依賴AT | 搭配上方AT修復國服雇員功能 | :x: | [Taurenkey](https://github.com/Taurenkey) |
+| [Burning Down the House](https://github.com/sharkycorps/BDTHPlugin) | 解除擺放限制，輕鬆搞定裝修 | 漢化 | :white_check_mark: | [LeonBlade](https://github.com/LeonBlade) |
+| [AntiAfkKick](https://github.com/sharkycorps/AntiAfkKick) | 防止長時間掛機時被伺服器踢出 | D17 | :o: | [NightmareXIV](https://github.com/NightmareXIV) |
+| [TextAdvance](https://github.com/sharkycorps/TextAdvance) | 任務速通輔助工具，自動跳過對話和過場 | D17 | :x: | [NightmareXIV](https://github.com/NightmareXIV) |
 
-* 以上调整均包括 D17 Plogon 自动化构建工具的适配
+* 以上調整均包括 D17 Plogon 自動化構建工具的適配
 
 ## 使用
 
-1. 打开卫月设置-测试版
-2. 复制粘贴下面的仓库链接
-3. 点击 + 号按钮
-4. 点击保存图标
+1. 打開衛月設置-測試版
+2. 複製粘貼下面的倉庫鏈接
+3. 點擊 + 號按鈕
+4. 點擊保存圖標
 
 ```
-https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/repo.json
+https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/repo.json
 ```
 
-## 工具和参考
+## 工具和參考
 
-* [Plogon](https://github.com/goatcorp/Plogon) 插件自动化构建系统
-* [redstrate/DalamudPlugins](https://github.com/redstrate/DalamudPlugins) 仓库结构及构建参考
+* [Plogon](https://github.com/goatcorp/Plogon) 插件自動化構建系統
+* [redstrate/DalamudPlugins](https://github.com/redstrate/DalamudPlugins) 倉庫結構及構建參考
