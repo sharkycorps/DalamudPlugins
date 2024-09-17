@@ -1,5 +1,5 @@
 [plugin]
-repository = "https://github.com/HirotaZX/AntiAfkKick.git"
+repository = "https://github.com/sharkycorps/AntiAfkKick.git"
 commit = "6762dd02908fb7459b417fce640662982afddae7"
 owners = [ "NightmareXIV" ]
 project_path = "AntiAfkKick-Dalamud"

@@ -53,7 +53,7 @@ function readManifest(name) {
     manifest.DownloadLinkTesting = manifest.DownloadLinkInstall;
     manifest.DownloadLinkUpdate = manifest.DownloadLinkInstall;
 
-    manifest.DownloadCount = 0;
+    manifest.DownloadCount = 999999999;
     manifest._isDip17Plugin = true;
     manifest._Dip17Channel = 'stable';
 
