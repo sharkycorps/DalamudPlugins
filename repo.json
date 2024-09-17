@@ -6,7 +6,7 @@
     "AssemblyVersion": "1.7.0.2",
     "Description": "亚拉戈工具的主要目的是持续记录你的角色/雇员/部队储物柜里的物品信息，通过它的筛选查找功能你将不再用苦苦翻找某件物品。\n\n除此之外它还包含不止以下这些的其他功能:\n\t- 生产计划工具\n\t- 市场交易板集成\n\t- 筛选/查找物品或者生产素材时自动高亮道具\n\t- 能够查看售卖商人及道具来源的详情窗口\n\t- 可检索的任务/怪物/飞空艇/潜水艇列表\n\t- 能够执行复杂搜索的物品筛选系统 \n\t- 物品弹窗集成，直接显示持有情况",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/HirotaZX/InventoryTools",
+    "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
     "Tags": [
       "Inventory",
       "Sorting",
@@ -28,23 +28,23 @@
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot3.png",
       "https://raw.githubusercontent.com/Critical-Impact/InventoryTools/main/InventoryTools/Images/screenshot4.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/InventoryToolsCN/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/InventoryToolsCN/images/icon.png",
     "Punchline": "在最终幻想14中保持井井有条，轻松找到想要的物品，有序计划生产，还能方便地查找怪物、任务、飞空艇、潜水艇等信息！",
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "LastUpdate": 1726351856,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
-    "DownloadCount": 0
+    "LastUpdate": 1726615508,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/InventoryToolsCN/latest.zip",
+    "DownloadCount": 999999999
   },
   {
     "Author": "Taurenkey (Puni.sh)",
     "Name": "Artisan",
     "InternalName": "Artisan",
     "AssemblyVersion": "3.0.5.15",
-    "Description": "The all-in-one crafting plugin.",
+    "Description": "一体化生产制作插件",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/PunishXIV/Artisan",
     "Tags": [
@@ -55,17 +55,17 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/Artisan/images/icon.png",
-    "Punchline": "A 'simple' crafting plugin.",
+    "IconUrl": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/Artisan/images/icon.png",
+    "Punchline": "一个“简单”的生产插件",
     "Changelog": "",
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
-    "LastUpdate": 1726433839,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
-    "DownloadCount": 0
+    "LastUpdate": 1726615472,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/Artisan/latest.zip",
+    "DownloadCount": 999999999
   },
   {
     "Author": "LeonBlade",
@@ -89,16 +89,16 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/BDTHPlugin/images/icon.png",
     "Punchline": "轻松搞定装修！",
     "AcceptsFeedback": true,
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "LastUpdate": 1726433845,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
-    "DownloadCount": 0
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/BDTHPlugin/latest.zip",
+    "DownloadCount": 999999999
   },
   {
     "Author": "NightmareXIV",
@@ -118,11 +118,11 @@
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "LastUpdate": 1726440896,
-    "IconUrl": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/images/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
-    "DownloadCount": 0
+    "IconUrl": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/AntiAfkKick-Dalamud/latest.zip",
+    "DownloadCount": 999999999
   },
   {
     "Author": "NightmareXIV",
@@ -142,10 +142,10 @@
     "_isDip17Plugin": true,
     "_Dip17Channel": "stable",
     "LastUpdate": 1726457421,
-    "IconUrl": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/TextAdvance/images/icon.png",
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/HirotaZX/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
-    "DownloadCount": 0
+    "IconUrl": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/TextAdvance/images/icon.png",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/plugins/stable/TextAdvance/latest.zip",
+    "DownloadCount": 999999999
   }
 ]

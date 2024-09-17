@@ -1,11 +1,11 @@
 [channels.stable.plugins.InventoryToolsCN]
-built_commit = "2aead968ab198369f32dbcf776824420fce66f50"
-time_built = 2024-09-14T22:10:56.708
+built_commit = "fb71bce6dbe3d586f8e7230d9605570c10042e9c"
+time_built = 2024-09-17T23:25:08.350
 effective_version = "1.7.0.2"
 [channels.stable.plugins.InventoryToolsCN.changelogs]
 [channels.stable.plugins.Artisan]
-built_commit = "ed2c962e2d4172320ecc9a74a0eb4a3735842397"
-time_built = 2024-09-15T20:57:19.428
+built_commit = "438d9c83ef0f47010692b563a6b445139281c586"
+time_built = 2024-09-17T23:24:32.681
 effective_version = "3.0.5.15"
 [channels.stable.plugins.Artisan.changelogs]
 [channels.stable.plugins.BDTHPlugin]
