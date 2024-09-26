@@ -1,7 +1,7 @@
 [plugin]
 repository = "https://github.com/sharkycorps/InventoryTools.git"
-commit = "fb71bce6dbe3d586f8e7230d9605570c10042e9c"
-owners = [ "Critical_Impact" ]
+commit = "aa8cdc1382ce2b6beb5d5aa9ee9a19454c5f4f83"
+owners = [ "Critical_Impact", "sharkycorps" ]
 project_path = "InventoryTools"
-version = "1.7.0.2"
+version = "1.7.0.20"
 changelog = ''''''

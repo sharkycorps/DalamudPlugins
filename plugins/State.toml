@@ -1,7 +1,7 @@
 [channels.stable.plugins.InventoryToolsCN]
-built_commit = "fb71bce6dbe3d586f8e7230d9605570c10042e9c"
-time_built = 2024-09-17T23:25:08.350
-effective_version = "1.7.0.2"
+built_commit = "aa8cdc1382ce2b6beb5d5aa9ee9a19454c5f4f83"
+time_built = 2024-09-26T22:36:41.832
+effective_version = "1.7.0.20"
 [channels.stable.plugins.InventoryToolsCN.changelogs]
 [channels.stable.plugins.Artisan]
 built_commit = "438d9c83ef0f47010692b563a6b445139281c586"
