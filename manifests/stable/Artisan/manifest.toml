@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sharkycorps/Artisan.git"
-commit = "438d9c83ef0f47010692b563a6b445139281c586"
-owners = [ "Taurenkey (Puni.sh)" ]
+commit = "acdd535828918e10029b0fdf143c799f8e7e2e51"
+owners = [ "Taurenkey (Puni.sh)", "sharkycorps" ]
 project_path = "Artisan"
 changelog = ''''''
