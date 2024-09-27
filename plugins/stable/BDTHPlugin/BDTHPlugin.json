@@ -2,7 +2,7 @@
   "Author": "LeonBlade",
   "Name": "Burning Down the House",
   "InternalName": "BDTHPlugin",
-  "AssemblyVersion": "1.6.3.0",
+  "AssemblyVersion": "1.6.6.0",
   "Description": "使用坐标系移动家具，随意摆放",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/LeonBlade/BDTHPlugin",
@@ -15,7 +15,7 @@
     "furnishing",
     "LeonBlade"
   ],
-  "DalamudApiLevel": 9,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

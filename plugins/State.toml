@@ -9,17 +9,17 @@ time_built = 2024-09-27T00:38:43.815
 effective_version = "4.0.1.8"
 [channels.stable.plugins.Artisan.changelogs]
 [channels.stable.plugins.BDTHPlugin]
-built_commit = "a49ec0a2a6048265aba4ffc74d69a868db63f0eb"
-time_built = 2024-09-15T20:57:25.298
-effective_version = "1.6.3.0"
+built_commit = "520a4f710846259216f8292d38d311eb2df1ce6f"
+time_built = 2024-09-27T01:21:43.693
+effective_version = "1.6.6.0"
 [channels.stable.plugins.BDTHPlugin.changelogs]
 [channels.stable.plugins.AntiAfkKick-Dalamud]
-built_commit = "6762dd02908fb7459b417fce640662982afddae7"
-time_built = 2024-09-15T22:54:56.962
-effective_version = "2.1.0.5"
+built_commit = "6b5b842d2269019921d5a189b692aa99507cf6a3"
+time_built = 2024-09-27T01:22:12.090
+effective_version = "2.1.0.6"
 [channels.stable.plugins.AntiAfkKick-Dalamud.changelogs]
 [channels.stable.plugins.TextAdvance]
-built_commit = "495e41e880ce357300be22e0bebb307fb9f551b0"
-time_built = 2024-09-16T03:30:21.920
-effective_version = "3.2.2.2"
+built_commit = "8973e4c06488ad2cdd993139616a54df345f6de9"
+time_built = 2024-09-27T01:22:07.746
+effective_version = "3.2.3.6"
 [channels.stable.plugins.TextAdvance.changelogs]
