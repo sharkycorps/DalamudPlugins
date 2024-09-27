@@ -1,6 +1,6 @@
 # DalamudPlugins
 
-![版本](https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E7%89%88%E6%9C%AC-%E5%9B%BD%E6%9C%8D6.58-blue)
+![支援版本](https://img.shields.io/badge/%E6%94%AF%E6%8F%B4%E7%89%88%E6%9C%AC-%E5%9C%8B%E6%9C%8D7.0-gold)
 [![Deployment](https://github.com/sharkycorps/DalamudPlugins/actions/workflows/main.yml/badge.svg)](https://github.com/sharkycorps/DalamudPlugins/actions/workflows/main.yml)
 
 鯊鯊軍團的衛月插件倉庫（原版或微調，不保證漢化，主要目標為 D17 自動化構建系統的適配）
