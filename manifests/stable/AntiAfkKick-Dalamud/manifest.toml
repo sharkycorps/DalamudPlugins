@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sharkycorps/AntiAfkKick.git"
-commit = "6762dd02908fb7459b417fce640662982afddae7"
-owners = [ "NightmareXIV" ]
+commit = "6b5b842d2269019921d5a189b692aa99507cf6a3"
+owners = [ "NightmareXIV", "sharkycorps" ]
 project_path = "AntiAfkKick-Dalamud"
 changelog = ''''''

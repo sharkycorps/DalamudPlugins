@@ -1,6 +1,6 @@
 [plugin]
 repository = "https://github.com/sharkycorps/BDTHPlugin.git"
-commit = "a49ec0a2a6048265aba4ffc74d69a868db63f0eb"
-owners = [ "LeonBlade" ]
+commit = "520a4f710846259216f8292d38d311eb2df1ce6f"
+owners = [ "LeonBlade", "sharkycorps" ]
 project_path = "BDTHPlugin"
 changelog = ''''''
