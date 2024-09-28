@@ -28,6 +28,10 @@
 https://raw.githubusercontent.com/sharkycorps/DalamudPlugins/main/repo.json
 ```
 
+## 社区
+
+Discord：https://discord.gg/ZCX9rb9xUX
+
 ## 工具和參考
 
 * [Plogon](https://github.com/goatcorp/Plogon) 插件自動化構建系統
